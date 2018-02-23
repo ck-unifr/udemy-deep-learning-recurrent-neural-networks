@@ -1,1 +1,1 @@
-# udemy-deep-learning-recurrent-neural-networks
+# udemy deep learning recurrent neural networks
